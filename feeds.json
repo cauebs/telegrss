@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://portal.ctc.ufsc.br/feed/",
+        "target": "@cbstest"
+    },
+    {
+        "url": "http://sinter.ufsc.br/feed/",
+        "target": "@cbstest"
+    },
+    {
+        "url": "http://noticias.ufsc.br/feed/",
+        "target": "@cbstest"
+    }
+]
